@@ -1,0 +1,31 @@
+# 前端资料不上传
+01. 前端Web基础(HTML+CSS)/
+02. 前端Web基础(JS+Vue+Ajax)/
+15. 前端Web实战(Vue工程化+ElementPlus)/
+16. 前端Web实战(Tlias案例)/
+17. 前端Web实战(Tlias案例)/
+18. 前端Web实战(Tlias案例)/
+
+# 系统、IDE、构建产物
+.DS_Store
+**/.DS_Store
+.idea/
+**/.idea/
+*.iml
+**/target/
+*.log
+node_modules/
+
+# GitHub 单文件上限 100MB，以下安装包和视频无法推送
+07. 后端Web实战(部门管理)/资料/04. Apifox/Apifox-2.6.9.exe
+05. 后端Web基础(数据库)/资料/02. MySQL安装/mysql-8.0.34-winx64.zip
+05. 后端Web基础(数据库)/资料/03. DataGrip安装/datagrip-2024.1.1.exe
+13. 后端Web进阶(AOP)/视频/01. SpringAOP-基础-AOP入门程序.mp4
+13. 后端Web进阶(AOP)/视频/08. SpringAOP-案例-记录操作日志.mp4
+14. 后端Web进阶(SpringBoot原理&Maven高级)/资料/04. maven私服/nexus.zip
+19. 项目部署(Linux)/资料/04. 软件安装包/mysql-8.0.30-linux-glibc2.12-x86_64.tar.xz
+20. 项目部署(Docker)/资料/03. jdk & jar包/jdk17.tar.gz
+20. 项目部署(Docker)/资料/03. jdk & jar包/jdk21.tar.gz
+20. 项目部署(Docker)/资料/04. 项目部署/服务端项目/jdk17.tar.gz
+20. 项目部署(Docker)/资料/04. 项目部署/服务端项目/jdk21.tar.gz
+20. 项目部署(Docker)/资料/05. Docker Compose/jdk17.tar.gz
